@@ -6,7 +6,7 @@ import sys, random
 import threading
 
 if len(sys.argv) != 3:
-    print("Usage: kahootspam.py <game pin> <number of bots>")
+    print("Usage: kahootspam.py <583748> <100>")
     sys.exit()
 
 options = ChromeOptions()
